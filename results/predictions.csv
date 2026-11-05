@@ -1,0 +1,101 @@
+﻿typed,expected,edits,target_count,case,predicted,top3,correct,top3_correct,time_ms
+paiinter,painter,1,3,1,painter,painter,1,1,0.138
+saucyc,saucy,1,4,2,saucy,saucy,1,1,0.087
+behld,behold,1,13,3,behold,behold,1,1,0.103
+brep,breed,2,3,4,bred,bred,0,0,0.057
+breatqhe,breathe,1,5,5,breathe,breathe,1,1,0.112
+excbuse,excuse,1,7,6,excuse,excuse,1,1,0.092
+ucourt,court,1,18,7,court,court,1,1,0.079
+stuscks,stocks,2,4,8,stocks,stocks | sticks | stuck,1,1,36.946
+ebstow,bestow,1,5,9,bestow,bestow,1,1,0.083
+ruite,quite,1,6,10,quite,quite | rite,1,1,0.068
+marriedo,married,1,9,11,married,married,1,1,0.099
+koines,ones,2,3,12,lines,lines | kings | bones,0,0,29.673
+nmar,near,1,10,13,near,near | mar,1,1,0.063
+cowned,crowned,1,4,14,crowned,crowned,1,1,0.082
+worstz,worst,1,10,15,worst,worst,1,1,0.079
+earflu,fearful,2,3,16,fearful,fearful | earl | early,1,1,30.135
+deskperate,desperate,1,5,17,desperate,desperate,1,1,0.143
+fluvia,fulvia,1,18,18,fulvia,fulvia,1,1,0.083
+qirgin,virgin,1,7,19,virgin,virgin,1,1,0.097
+raiuors,traitors,2,3,20,traitors,traitors | tailors,1,1,44.14
+lar,liar,1,4,21,far,far | war | lay,0,0,0.061
+comfor,comfort,1,7,22,comfort,comfort,1,1,0.083
+wors,words,1,18,23,word,word | words | wars,0,1,0.068
+sabke,shake,2,8,24,sake,sake | sable,0,0,0.066
+throurh,through,1,13,25,through,through,1,1,0.089
+yjar,year,1,13,26,year,year,1,1,0.054
+depe,deep,1,9,27,deep,deep,1,1,0.053
+liabl,limbs,2,4,28,dial,dial | liar | limbs,0,1,21.26
+behieve,believe,1,19,29,believe,believe,1,1,0.114
+stretcx,stretch,1,3,30,stretch,stretch,1,1,0.138
+uspposed,supposed,1,5,31,supposed,supposed,1,1,0.105
+bzate,late,2,8,32,bate,bate,0,0,0.068
+ake,make,1,117,33,are,are | make | take,0,1,0.054
+stylt,style,1,4,34,style,style,1,1,0.066
+illinnois,illinois,1,8,35,illinois,illinois,1,1,0.111
+pslae,pale,2,4,36,place,place | palace | play,0,0,21.902
+wordl,world,1,60,37,world,world | word | words,1,1,0.071
+trie,true,1,61,38,true,true | tie | tried,1,1,0.058
+unheen,unseen,1,5,39,unseen,unseen,1,1,0.079
+ebithe,either,2,11,40,either,either | tithe,1,1,28.902
+birh,birth,1,6,41,birth,birth | bird,1,1,0.061
+vassayl,vassal,1,4,42,vassal,vassal,1,1,0.091
+dbed,died,1,6,43,bed,bed | deed | died,0,1,0.062
+kndcok,knock,2,3,44,knock,knock,1,1,28.501
+spiris,spirits,1,7,45,spirit,spirit | spirits,0,1,0.154
+masure,measure,1,6,46,measure,measure | mature,1,1,0.085
+fae,fare,1,8,47,far,far | face | fare,0,1,0.055
+hnusbnd,husband,2,19,48,husband,husband,1,1,37.961
+despije,despite,1,5,49,despite,despite | despise,1,1,0.1
+tese,these,1,50,50,these,these,1,1,0.057
+eave,leave,1,42,51,have,have | leave | save,0,1,0.063
+grrt,greet,2,4,52,great,great | art | part,0,0,14.608
+keepvs,keeps,1,7,53,keeps,keeps,1,1,0.084
+ulst,lust,1,7,54,lust,lust,1,1,0.055
+wat,wait,1,5,55,what,what | was | at,0,0,0.056
+sodeir,soldier,2,55,56,soldier,soldier | sober,1,1,29.893
+delaey,delay,1,3,57,delay,delay,1,1,0.084
+rbeeds,breeds,1,3,58,breeds,breeds,1,1,0.079
+car,scar,1,4,59,can,can | far | war,0,0,0.061
+mb,dumb,2,9,60,my,my | me | m,0,0,0.033
+helnea,helena,1,125,61,helena,helena,1,1,0.135
+adst,hadst,1,4,62,hadst,hadst,1,1,0.055
+hine,thine,1,59,63,mine,mine | thine | fine,0,1,0.066
+gusicw,music,2,6,64,music,music | musics,1,1,29.626
+mlorence,florence,1,21,65,florence,florence,1,1,0.105
+papecr,paper,1,8,66,paper,paper,1,1,0.084
+strongeqr,stronger,1,4,67,stronger,stronger,1,1,0.111
+skspeect,suspect,2,3,68,suspect,suspect,1,1,51.169
+siegb,siege,1,3,69,siege,siege,1,1,0.074
+isebl,isbel,1,3,70,isbel,isbel,1,1,0.067
+apploach,approach,1,3,71,approach,approach,1,1,0.103
+invuentiorn,invention,2,9,72,invention,invention,1,1,90.392
+soru,sour,1,3,73,sour,sour | sore | sort,1,1,0.143
+compart,compare,1,6,74,compare,compare,1,1,0.095
+efllow,fellow,1,10,75,fellow,fellow,1,1,0.087
+prienc,prince,2,9,76,friend,friend | prince | price,0,1,37.053
+foud,found,1,23,77,found,found | foul | four,1,1,0.068
+spaks,speaks,1,5,78,speaks,speaks | spake | sparks,1,1,0.071
+cmomon,common,1,14,79,common,common,1,1,0.08
+whxst,whilst,2,19,80,what,what | whose | hast,0,0,21.248
+pluk,pluck,1,10,81,pluck,pluck | plus,1,1,0.06
+sliep,sleep,1,10,82,sleep,sleep | slip,1,1,0.068
+foriear,forbear,1,5,83,forbear,forbear,1,1,0.098
+kni,king,2,172,84,knit,knit | kin,0,0,0.043
+toih,toil,1,5,85,toil,toil,1,1,0.053
+oubt,doubt,1,4,86,out,out | doubt,0,1,0.054
+bootu,boot,1,3,87,boot,boot | boots,1,1,0.066
+rosidig,residing,2,3,88,residing,residing,1,1,41.225
+sfeathers,feathers,1,3,89,feathers,feathers,1,1,0.129
+atch,match,1,5,90,catch,catch | match | patch,0,1,0.069
+nobiity,nobility,1,3,91,nobility,nobility,1,1,0.129
+eyr,very,2,49,92,eye,eye | er | ear,0,0,0.047
+eil,evil,1,6,93,evil,evil | oil | veil,1,1,0.047
+bekars,bears,1,4,94,bears,bears,1,1,0.117
+tcountry,country,1,5,95,country,country,1,1,0.112
+mwrnibg,morning,2,5,96,morning,morning,1,1,38.855
+straumpet,strumpet,1,3,97,strumpet,strumpet,1,1,0.116
+obivion,oblivion,1,4,98,oblivion,oblivion,1,1,0.092
+advsied,advised,1,3,99,advised,advised,1,1,0.088
+farik,fair,2,64,100,fair,fair | far | mark,1,1,20.586

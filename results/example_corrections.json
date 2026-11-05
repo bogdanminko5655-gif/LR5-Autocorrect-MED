@@ -1,0 +1,59 @@
+[
+  {
+    "input": "hllo",
+    "suggestions": [
+      {
+        "word": "all",
+        "probability": 0.0048302847621365585
+      },
+      {
+        "word": "ll",
+        "probability": 0.001666261022597495
+      },
+      {
+        "word": "ill",
+        "probability": 0.0005429389848913186
+      }
+    ]
+  },
+  {
+    "input": "mony",
+    "suggestions": [
+      {
+        "word": "many",
+        "probability": 0.0008424915282796323
+      },
+      {
+        "word": "money",
+        "probability": 5.616610188530882e-05
+      }
+    ]
+  },
+  {
+    "input": "comming",
+    "suggestions": [
+      {
+        "word": "coming",
+        "probability": 0.00014977627169415685
+      }
+    ]
+  },
+  {
+    "input": "happpy",
+    "suggestions": [
+      {
+        "word": "happy",
+        "probability": 0.00031827457735008333
+      }
+    ]
+  },
+  {
+    "input": "xylophonne",
+    "suggestions": [
+      {
+        "word": "xylophonne",
+        "probability": 0.0
+      }
+    ]
+  }
+]

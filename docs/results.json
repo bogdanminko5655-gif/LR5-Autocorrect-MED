@@ -1,0 +1,375 @@
+{
+  "status": "completed",
+  "metrics": {
+    "status": "completed",
+    "corpus_source": "Локальний файл користувача: data/shakespeare.txt",
+    "corpus_url_reference": null,
+    "total_tokens": 53413,
+    "unique_words": 5961,
+    "sum_probabilities": 1.0,
+    "random_seed": 42,
+    "requested_test_cases": 100,
+    "test_count": 100,
+    "correct_top1": 76,
+    "accuracy_top1": 0.76,
+    "accuracy_top3": 0.87,
+    "one_edit_count": 75,
+    "accuracy_one_edit": 0.84,
+    "two_edit_count": 25,
+    "accuracy_two_edits": 0.52,
+    "avg_correction_ms": 6.608,
+    "median_correction_ms": 0.086,
+    "total_correction_seconds": 0.661,
+    "evaluation_type": "Штучно згенеровані опечатки у словах із корпусу; не незалежний набір реальних помилок",
+    "med_examples": [
+      {
+        "source": "play",
+        "target": "stay",
+        "distance": 4
+      },
+      {
+        "source": "sunday",
+        "target": "saturday",
+        "distance": 4
+      },
+      {
+        "source": "intention",
+        "target": "execution",
+        "distance": 8
+      }
+    ]
+  },
+  "examples": [
+    {
+      "input": "hllo",
+      "suggestions": [
+        {
+          "word": "all",
+          "probability": 0.0048302847621365585
+        },
+        {
+          "word": "ll",
+          "probability": 0.001666261022597495
+        },
+        {
+          "word": "ill",
+          "probability": 0.0005429389848913186
+        }
+      ]
+    },
+    {
+      "input": "mony",
+      "suggestions": [
+        {
+          "word": "many",
+          "probability": 0.0008424915282796323
+        },
+        {
+          "word": "money",
+          "probability": 5.616610188530882e-05
+        }
+      ]
+    },
+    {
+      "input": "comming",
+      "suggestions": [
+        {
+          "word": "coming",
+          "probability": 0.00014977627169415685
+        }
+      ]
+    },
+    {
+      "input": "happpy",
+      "suggestions": [
+        {
+          "word": "happy",
+          "probability": 0.00031827457735008333
+        }
+      ]
+    },
+    {
+      "input": "xylophonne",
+      "suggestions": [
+        {
+          "word": "xylophonne",
+          "probability": 0.0
+        }
+      ]
+    }
+  ],
+  "sample_predictions": [
+    {
+      "typed": "paiinter",
+      "expected": "painter",
+      "predicted": "painter",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "saucyc",
+      "expected": "saucy",
+      "predicted": "saucy",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "behld",
+      "expected": "behold",
+      "predicted": "behold",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "brep",
+      "expected": "breed",
+      "predicted": "bred",
+      "correct": 0,
+      "edits": 2
+    },
+    {
+      "typed": "breatqhe",
+      "expected": "breathe",
+      "predicted": "breathe",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "excbuse",
+      "expected": "excuse",
+      "predicted": "excuse",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "ucourt",
+      "expected": "court",
+      "predicted": "court",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "stuscks",
+      "expected": "stocks",
+      "predicted": "stocks",
+      "correct": 1,
+      "edits": 2
+    },
+    {
+      "typed": "ebstow",
+      "expected": "bestow",
+      "predicted": "bestow",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "ruite",
+      "expected": "quite",
+      "predicted": "quite",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "marriedo",
+      "expected": "married",
+      "predicted": "married",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "koines",
+      "expected": "ones",
+      "predicted": "lines",
+      "correct": 0,
+      "edits": 2
+    },
+    {
+      "typed": "nmar",
+      "expected": "near",
+      "predicted": "near",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "cowned",
+      "expected": "crowned",
+      "predicted": "crowned",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "worstz",
+      "expected": "worst",
+      "predicted": "worst",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "earflu",
+      "expected": "fearful",
+      "predicted": "fearful",
+      "correct": 1,
+      "edits": 2
+    },
+    {
+      "typed": "deskperate",
+      "expected": "desperate",
+      "predicted": "desperate",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "fluvia",
+      "expected": "fulvia",
+      "predicted": "fulvia",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "qirgin",
+      "expected": "virgin",
+      "predicted": "virgin",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "raiuors",
+      "expected": "traitors",
+      "predicted": "traitors",
+      "correct": 1,
+      "edits": 2
+    },
+    {
+      "typed": "lar",
+      "expected": "liar",
+      "predicted": "far",
+      "correct": 0,
+      "edits": 1
+    },
+    {
+      "typed": "comfor",
+      "expected": "comfort",
+      "predicted": "comfort",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "wors",
+      "expected": "words",
+      "predicted": "word",
+      "correct": 0,
+      "edits": 1
+    },
+    {
+      "typed": "sabke",
+      "expected": "shake",
+      "predicted": "sake",
+      "correct": 0,
+      "edits": 2
+    },
+    {
+      "typed": "throurh",
+      "expected": "through",
+      "predicted": "through",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "yjar",
+      "expected": "year",
+      "predicted": "year",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "depe",
+      "expected": "deep",
+      "predicted": "deep",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "liabl",
+      "expected": "limbs",
+      "predicted": "dial",
+      "correct": 0,
+      "edits": 2
+    },
+    {
+      "typed": "behieve",
+      "expected": "believe",
+      "predicted": "believe",
+      "correct": 1,
+      "edits": 1
+    },
+    {
+      "typed": "stretcx",
+      "expected": "stretch",
+      "predicted": "stretch",
+      "correct": 1,
+      "edits": 1
+    }
+  ],
+  "top_words": [
+    {
+      "word": "the",
+      "count": 1525
+    },
+    {
+      "word": "and",
+      "count": 1395
+    },
+    {
+      "word": "i",
+      "count": 1267
+    },
+    {
+      "word": "to",
+      "count": 1196
+    },
+    {
+      "word": "of",
+      "count": 1094
+    },
+    {
+      "word": "my",
+      "count": 858
+    },
+    {
+      "word": "in",
+      "count": 787
+    },
+    {
+      "word": "that",
+      "count": 785
+    },
+    {
+      "word": "a",
+      "count": 757
+    },
+    {
+      "word": "you",
+      "count": 749
+    },
+    {
+      "word": "is",
+      "count": 557
+    },
+    {
+      "word": "s",
+      "count": 518
+    },
+    {
+      "word": "not",
+      "count": 510
+    },
+    {
+      "word": "for",
+      "count": 474
+    },
+    {
+      "word": "it",
+      "count": 460
+    }
+  ]
+}

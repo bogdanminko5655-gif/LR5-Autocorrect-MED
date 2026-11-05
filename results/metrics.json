@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "corpus_source": "Локальний файл користувача: data/shakespeare.txt",
+  "corpus_url_reference": null,
+  "total_tokens": 53413,
+  "unique_words": 5961,
+  "sum_probabilities": 1.0,
+  "random_seed": 42,
+  "requested_test_cases": 100,
+  "test_count": 100,
+  "correct_top1": 76,
+  "accuracy_top1": 0.76,
+  "accuracy_top3": 0.87,
+  "one_edit_count": 75,
+  "accuracy_one_edit": 0.84,
+  "two_edit_count": 25,
+  "accuracy_two_edits": 0.52,
+  "avg_correction_ms": 6.608,
+  "median_correction_ms": 0.086,
+  "total_correction_seconds": 0.661,
+  "evaluation_type": "Штучно згенеровані опечатки у словах із корпусу; не незалежний набір реальних помилок",
+  "med_examples": [
+    {
+      "source": "play",
+      "target": "stay",
+      "distance": 4
+    },
+    {
+      "source": "sunday",
+      "target": "saturday",
+      "distance": 4
+    },
+    {
+      "source": "intention",
+      "target": "execution",
+      "distance": 8
+    }
+  ]
+}
